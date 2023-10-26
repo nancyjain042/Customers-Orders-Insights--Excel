@@ -30,4 +30,7 @@ The dashboard reveals a declining trend in daily orders over the specified time 
 **Least Ordered Item**:
 
 "Aloo Shots Pizzabun" is the least ordered item, suggesting that it may not be as popular among customers. Consider exploring strategies to promote or enhance this product's appeal.
-In Conclusion: The Orders Dashboard offers a succinct and comprehensive overview of your business's performance, equipping you to make data-driven decisions that can optimize sales and enhance customer satisfaction. By identifying top-performing items, analyzing customer distribution, and monitoring trends, you gain a deeper understanding of your business and can take proactive steps to enhance its profitability and improve the overall customer experience.
+
+## In Conclusion: 
+
+The Orders Dashboard offers a succinct and comprehensive overview of your business's performance, equipping you to make data-driven decisions that can optimize sales and enhance customer satisfaction. By identifying top-performing items, analyzing customer distribution, and monitoring trends, you gain a deeper understanding of your business and can take proactive steps to enhance its profitability and improve the overall customer experience.
